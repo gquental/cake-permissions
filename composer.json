@@ -1,0 +1,18 @@
+{
+    "name": "gquental/cake-permissions",
+    "description": "Permission system for CakePHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Quental",
+            "email": "guilherme@quent.al"
+        }
+    ],
+    "require": {
+        "composer/installers": "1.0.*",
+        "cakedc/migrations": "2.2.*"
+    },
+    "extra": {
+        "installer-name": "Permissions"
+    }
+}
